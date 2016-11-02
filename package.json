@@ -16,6 +16,6 @@
   "readmeFilename": "README.md",
   "devDependencies": {
     "gulp": "^3.8.10",
-    "gulp-markdown-pdf": "^1.0.1"
+    "gulp-markdown-pdf": "^4.0.0"
   }
 }
